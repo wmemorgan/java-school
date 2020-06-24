@@ -12,7 +12,7 @@
     <artifactId>schools</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>schools</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demonstration of custom exception handling</description>
 
     <properties>
         <java.version>11</java.version>
