@@ -34,7 +34,8 @@ public class ErrorDetail {
     }
 
     public void setDetail(String detail) {
-        this.detail = detail;
+
+        this.detail = "Found an issue with School: " + detail;
     }
 
     public Date getTimestamp() {
