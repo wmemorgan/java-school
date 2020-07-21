@@ -1,3 +1,5 @@
+-- noinspection SqlNoDataSourceInspectionForFile
+-- noinspection SqlDialectInspectionForFile
 DELETE
 FROM studcourses;
 
